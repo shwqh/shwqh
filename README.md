@@ -1,3 +1,5 @@
+<img src="https://github.com/shwqh/shwqh/blob/main/2.png?raw=true" alt="banner" style="width:100%;"/>
+
 ### Hi, I'm Ashwaq!
 
 I'm a computer engineering graduate with a growing passion for **data science** and **data analysis**. I'm currently focusing on building strong foundations and developing my skills through self-learning and hands-on practice.
