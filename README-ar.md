@@ -1,4 +1,4 @@
-<img src="https://github.com/shwqh/shwqh/blob/main/BSaudi.png?raw=true" alt="banner" style="width:100%;"/>
+<img src="https://github.com/shwqh/shwqh/blob/main/BSaudi.svg?raw=true" alt="banner" style="width:100%;"/>
 
 
 # أهلًا! أنا أشواق ✨
