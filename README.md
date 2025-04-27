@@ -36,4 +36,4 @@ I'm currently learning and experimenting — projects coming soon!
 Thanks for visiting my profile — stay tuned for updates!
 
 
-> **تبي تقرأ الصفحة بالعربي؟ [اضغط هنا](./README-ar.md)**  
+> **تبغى تقرأ الصفحة بالعربي؟ [اضغط هنا](./README-ar.md)**  
